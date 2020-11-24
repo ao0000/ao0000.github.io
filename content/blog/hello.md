@@ -4,7 +4,7 @@ date: 2020-11-24T11:45:39+09:00
 slug: "first-post"
 description: "This is my self-introduction."
 keywords: []
-draft: true
+draft: false
 tags: []
 math: false
 toc: true

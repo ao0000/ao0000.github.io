@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ao0000</title>
-    <link>https://ao0000.github.io/</link>
-    <description>Recent content on ao0000</description>
+    <title>Blogs on ao0000</title>
+    <link>https://ao0000.github.io/blog/</link>
+    <description>Recent content in Blogs on ao0000</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Tue, 24 Nov 2020 11:45:39 +0900</lastBuildDate><atom:link href="https://ao0000.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Nov 2020 11:45:39 +0900</lastBuildDate><atom:link href="https://ao0000.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
       <link>https://ao0000.github.io/blog/first-post/</link>
