@@ -1,0 +1,50 @@
+
+# DO NOT REMOVE THIS
+theme = "hugo-theme-codex" 
+
+title = "ao0000"
+languageCode = "ja-jp"
+baseURL = "https://ao0000.github.io/"
+copyright = "© {year}"
+
+# Add your Google Analytics identifier: UA-XXXXXXXX-X
+# googleAnalytics = "" 
+
+# Optional params
+[params]
+  dateFormat = "Jan 2 2006"
+
+  twitter = "https://twitter.com/ao_61173"
+  github = "https://github.com/ao0000"
+  iconOrder = ["Twitter", "GitHub"]
+
+  # Set to true to display page title in table of contents in blog posts.
+  showPageTitleInTOC = false
+
+# This disables Hugo's default syntax highlighting in favor
+# of prismjs. If you wish to use Hugo's default syntax highlighting
+# over prismjs, remove this. You will also need to remove the prismjs
+# vendor script in layouts/blog/single.html.
+[markup]
+  [markup.highlight]
+    codeFences = true
+    
+  # Set to false to disallow raw HTML in markdown files
+  [markup.goldmark.renderer]
+      unsafe = true
+
+# Controls the navigation
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  title = "About"
+  url = "/"
+
+[[menu.main]]
+  identifier = "blog"
+  name = "blog"
+  title = "Blog"
+  url = "/blog"
+
+
+
