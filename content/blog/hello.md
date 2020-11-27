@@ -11,4 +11,5 @@ toc: true
 ---
 
 ## About me
-I'm an undergraduate CS. I'm learning Android app development with Kotlin.
+- I'm an undergraduate student in computer science.
+- I'm learning Android app development with Kotlin.
