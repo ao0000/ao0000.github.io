@@ -15,7 +15,7 @@ copyright = "© {year}"
 [params]
   dateFormat = "Jan 2 2006"
 
-  twitter = "https://twitter.com/ao_61173"
+  twitter = "https://twitter.com/aofzdn"
   github = "https://github.com/ao0000"
   iconOrder = ["Twitter", "GitHub"]
 
